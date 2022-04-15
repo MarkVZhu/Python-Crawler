@@ -1,4 +1,5 @@
-# Python-Crawler
+# Python Crawler
+This python crawler scrapes jobs on TIMESJOBS web. 
 The target website:		https://www.timesjobs.com/  
 ![image](https://user-images.githubusercontent.com/61057370/163549750-52ff4a6f-4e4b-41f8-bebb-3b9fdf8c28df.png)  
   
@@ -14,3 +15,5 @@ The Result in .txt Files:
 ![image](https://user-images.githubusercontent.com/61057370/163549899-286ad80b-d6bc-4ac4-9efc-154494604996.png)
 ![image](https://user-images.githubusercontent.com/61057370/163549909-029a7c42-9189-4634-83f8-5991b1f86aef.png)
 ![image](https://user-images.githubusercontent.com/61057370/163549918-d3856b43-07b6-4c28-80c2-71d6e6f96f2b.png)
+
+Learn form: Web Scraping with Python - Beautiful Soup Crash Course https://www.youtube.com/watch?v=XVv6mJpFOb0&t=3243s & Course: CPS3320 from WKU
