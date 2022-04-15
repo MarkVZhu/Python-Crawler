@@ -1,0 +1,203 @@
+Job Type: java   Time: 2022-04-04/15/22 16:38:34
+
+********************************************************************************
+Job name: Java - Core Java
+Company: Fine Jobs Consultant Pvt. Ltd.
+Location: Indore
+Job description: Job DescriptionJava - Core Java  ( Strong in Fundamentals )  ,  Spring ,  Hibernate ,  MicroServices  ( Spring Boot and Spring Security )  ,  Webservices  ( Restfull services ... More Details
+Required skills: fundamentals, jsp, hibernate, spring, spring boot, database, java, spring security, j2ee, telecom
+More Info: https://www.timesjobs.com/job-detail/java-core-java-fine-jobs-consultant-pvt-ltd-indore-0-to-3-yrs-jobid-UbuiPePHcEBzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: java / Sr java Developer
+Company: APPLYCUP HIRING SOLUTIONS LLP
+Location: Bhopal
+Job description: Qualification : B.E.  /  B.Tech  / BCA /  MCA - Any Graduate  /  P.G - Any Diploma  /  Any Degree  /  Any Specialization Experience : 1 - 4 YearsSkills : Spring ,  Angular Js ... More Details
+Required skills: authoring, team player, jquery, java developer, sql, spring, spring framework, multimedia, java, mysql, object oriented programming
+More Info: https://www.timesjobs.com/job-detail/java-sr-java-developer-applycup-hiring-solutions-llp-bhopal-1-to-4-yrs-jobid-3jE7TL33mCNzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java  /  Sr Java Developer
+Company: Codevian Technologies Pvt. Ltd.
+Location: Nasik,  Pune
+Job description: Technical Skill Skills and Experience: -BE  /  B Tech  /  M Tech  ( Computer Science / Information Technology )  ,  BCA  /  MCA- Proven track record of development and design ... More Details
+Required skills: information technology, ajax, spring, java, xml, j2ee, html, data structures, github, oracle, mvc architecture, javascript, java developer, nosql, ooad, algorithms, jdbc, hibernate, docker, database, cloud computing, rest, weblogic, svn, extjs, written communication
+More Info: https://www.timesjobs.com/job-detail/java-sr-java-developer-codevian-technologies-pvt-ltd-nasik-pune-2-to-5-yrs-jobid-Dd3KvjYlwoBzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer - Java   PHP
+Company: BrainToSoul Consulting
+Location: Bengaluru / Bangalore
+Job description: Java Developer - Java   PHP Location: Bangalore - Department: IT Services- Positions: 2Required Skills 2  Years of relevant ExpereinceJava - strong grasp on any OOPPHP , Angul... More Details
+Required skills: css, bootstrap, javascript, jquery, java developer, oop, database, java, git, linux, php, json, html, angularjs, big data
+More Info: https://www.timesjobs.com/job-detail/java-developer-java-php-braintosoul-consulting-bengaluru-bangalore-2-to-5-yrs-jobid-BY2kPvTuZLtzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developers  ( Core Java )
+Company: Bloom Consulting Services
+Location: Bengaluru / Bangalore
+Job description: About the Job  Strong In Core Java Strong Spring Experience Strong Background In Developing And Deploying Software That Runs In A Real-Time ,  Multi-Threaded Environment Worki... More Details
+Required skills: rest api, hibernate, messaging, sql, spring, java, wsdl, xml, unix  /  linux, soap
+More Info: https://www.timesjobs.com/job-detail/java-developers-core-java-bloom-consulting-services-bengaluru-bangalore-0-to-3-yrs-jobid-PE6Tiu0__PLUS__g__SLASH__5zpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java  /  Senior java Developer
+Company: foursis technical solution
+Location: Ahmedabad
+Job description: Should have knowledge of OOPs concepts ,  Core Java ,  Spring Framework , JPA , Database Design and SQL queries.  Hands on Experience in Java 8 ,  Spring Boot ,  Web Services ... More Details
+Required skills: Team Management, Design Pattern , OOPS, Problem Solving , Database Design , SQL Queries , Spring Boot , Fast Lerner , Communication Skill , Core Java , Rest , JAVA8, JPA
+More Info: https://www.timesjobs.com/job-detail/java-senior-java-developer-foursis-technical-solution-ahmedabad-2-to-7-yrs-jobid-wdcW5nYjENtzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: JAVA Developer
+Company: Coriolis Technologies
+Location: Pune
+Job description: JAVA Developer 0-2 years development experience in the Java ecosystem. Good knowledge of J2EE and solid Java programming skills.Experience with object-oriented design methodol... More Details
+Required skills: spring, security, java, j2ee, hibernate, java programming, java developer
+More Info: https://www.timesjobs.com/job-detail/java-developer-coriolis-technologies-pune-0-to-2-yrs-jobid-LNl69K7aSfJzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: vgn it craftsmen solutions pvt. ltd noida
+Location: Noida/Greater Noida
+Job description: Java Developer We are looking for a Java Developer with experience in building high-performing ,  scalable ,  enterprise-grade applications.You will be part of a talented soft... More Details
+Required skills: java, java ee, j2ee, java developer
+More Info: https://www.timesjobs.com/job-detail/java-developer-vgn-it-craftsmen-solutions-pvt-ltd-noida-noida-greater-noida-1-to-3-yrs-jobid-wTjXgiwYJINzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: PI TECHNIQUES
+Location: Mumbai
+Job description:  )  Looking for a Java Developer with minimum two to four years of experience in JavaFx and JDBC which is mandatory. )  Knowledge in Core Java ,  Oops ,  Swing ,  Applet ,  Hi... More Details
+Required skills: c   programming, jdbc, hibernate, java developer, swing, fx, java, struts, oops, j2ee, html, javafx
+More Info: https://www.timesjobs.com/job-detail/java-developer-pi-techniques-mumbai-0-to-3-yrs-jobid-mnb7iLZBbT9zpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: CONNECTING 2 WORK
+Location: Thiruvananthapuram
+Job description: Job Description Designing ,  implementing ,  and maintaining Java applications that are often high-volume and low-latency ,  required for mission-critical systemsDelivering hi... More Details
+Required skills: java, java ee, debugging
+More Info: https://www.timesjobs.com/job-detail/java-developer-connecting-2-work-thiruvananthapuram-0-to-3-yrs-jobid-32LD6BOCIcRzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: iceico technologies pvt ltd
+Location: Nagpur
+Job description: Job Description- Design ,  implement and maintain java application phases- To take part in software and architectural development activities- Conduct software analysis ,  prog... More Details
+Required skills: java, debugging, java developer
+More Info: https://www.timesjobs.com/job-detail/java-developer-iceico-technologies-pvt-ltd-nagpur-0-to-3-yrs-jobid-kD948VjWDDlzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Trainee
+Company: Agnity India Pvt Ltd
+Location: Noida/Greater Noida
+Job description: Looking for Java Trainee / Associate Java Developer with 0-1 years of experience.Only candidates who have scored more than 70 PERCENT  marks throughout academics should apply.... More Details
+Required skills: hibernate, java developer, sql, spring, oop, java, j2ee, multithreading, java programming
+More Info: https://www.timesjobs.com/job-detail/java-trainee-agnity-india-pvt-ltd-noida-greater-noida-0-to-1-yrs-jobid-McUBXKc__PLUS__PZ5zpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: I2SOFT TECHNOLOGIES
+Location: Bengaluru / Bangalore
+Job description: Java DeveloperJob Code : I2S-JD-17 / 11Experience : 0 - 1 yearKeyskills: Core Java ,  J2EE ,  Webservices ,  Spring ,  Hibernate ,  Java Script ,  MySQL.Location : BangaloreAp... More Details
+Required skills: spring, java, j2ee, mysql, hibernate, java developer
+More Info: https://www.timesjobs.com/job-detail/java-developer-i2soft-technologies-bengaluru-bangalore-0-to-1-yrs-jobid-CyxmchhPNLNzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: JAVA Engineer
+Company: APPLYCUP HIRING SOLUTIONS LLP
+Location: Indore
+Job description: JAVA EngineerIndore ,  Madhya Pradesh Qualification : BE  , Btech  , BSC Computer / IT , MSC  , MCA , any graduate ,  Experience : 2 - 5 YearsSkills : java ,  spring ,  hibern... More Details
+Required skills: hibernate, javascript, jquery, spring, java, struts, j2ee, enterprise java, object oriented programming, java programming
+More Info: https://www.timesjobs.com/job-detail/java-engineer-applycup-hiring-solutions-llp-indore-2-to-5-yrs-jobid-M__PLUS__ueYjvI7MFzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: JAVA Lead
+Company: APPLYCUP HIRING SOLUTIONS LLP
+Location: Indore
+Job description: JAVA LeadIndore ,  Madhya Pradesh Qualification : BE  , Btech  , BSC Computer / IT , MSC  , MCA , any graduate ,  Experience : 5 - 10 YearsSkills : Struts / Spring ,  java ,  ... More Details
+Required skills: hibernate, javascript, jquery, spring, java, struts, j2ee, enterprise java, object oriented programming, java programming
+More Info: https://www.timesjobs.com/job-detail/java-lead-applycup-hiring-solutions-llp-indore-5-to-10-yrs-jobid-ky1E1LrzzQ9zpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: Bloom Consulting Services
+Location: Bengaluru / Bangalore
+Job description: JD913 - Java Developer Key Skills : Core Java ,  Spring ,  Hibernate ,  JAX-RS  ( REST )  ,  JMS ,  RDBMS  ,  Angular JS  , Java / J2EEExp : 5 - 9 Sal : Loc : BangaloreClient ... More Details
+Required skills: rest, rdbms, hibernate, java developer, spring, java, j2ee, soap, middleware
+More Info: https://www.timesjobs.com/job-detail/java-developer-bloom-consulting-services-bengaluru-bangalore-0-to-3-yrs-jobid-Fsg3gnxMC3dzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: APPLYCUP HIRING SOLUTIONS LLP
+Location: Chennai
+Job description: Qualification : BE  , Btech  , BSC Computer / IT , MSC  , MCA ,  Experience : 2 - 6 YearsSkills : JavaJob Description :Job Description;-2 to 6 years of experienceStrong Java p... More Details
+Required skills: java, java programming, java developer
+More Info: https://www.timesjobs.com/job-detail/java-developer-applycup-hiring-solutions-llp-chennai-2-to-6-yrs-jobid-pj__PLUS__FwRpI3fpzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: Inspirisys
+Location: Chennai
+Job description: Java Developer | Chennai Function - PED BankingRequirements  /  Key skills:Minimum 2 years of hands on experience in Java ,  J2EEWorking knowledge with any RDBMS and SQL State... More Details
+Required skills: java, rdbms, rest api, j2ee, javascript, java developer, sql
+More Info: https://www.timesjobs.com/job-detail/java-developer-inspirisys-chennai-2-to-5-yrs-jobid-OP31Sh__SLASH__cvudzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: Infosys Technologies Ltd
+Location: Canada
+Job description: Candidate must be located within commuting distance of Mississauga ,  Ontario or be willing to relocate to the area. This position may require travel.Bachelors degree or forei... More Details
+Required skills: information technology, java, j2ee, rdbms, java developer, spring boot
+More Info: https://www.timesjobs.com/job-detail/java-developer-infosys-technologies-ltd-canada-4-to-7-yrs-jobid-97FnbiDeLlxzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: genx esolutions
+Location: Lucknow
+Job description: Java DeveloperSkills: Java J2EEDesired skills: Java / J2EE ,  Springboot ,  Hibernate , OOD.education: MCA or B.Tech or BEExperience: 3 Years  6 YearsLocation: LucknowPosition... More Details
+Required skills: rdbms, oracle, hibernate, java developer, java, spring mvc, j2ee, java ee, mysql, jsf
+More Info: https://www.timesjobs.com/job-detail/java-developer-genx-esolutions-lucknow-6-to-9-yrs-jobid-iRHeBvjOT5lzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: Infocom Software
+Location: Cochin/ Kochi/ Ernakulam
+Job description: Java Developer  ( Exp: 2   ) Design ,  implement and maintain java application phasesTo take part in software and architectural development activitiesConduct software analysis... More Details
+Required skills: java, debugging, java developer
+More Info: https://www.timesjobs.com/job-detail/java-developer-infocom-software-cochin-kochi-ernakulam-0-to-3-yrs-jobid-peYfennmXGxzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: Sapphire Software Solutions
+Location: Ahmedabad
+Job description: Requirements: Around 2+ years of experience in software development for innovative ,  relevant and emergent technology companies.  Working in healthcare solution is a plush , ... More Details
+Required skills: Java, J2ee, Hibernate, Spring, Struts
+More Info: https://www.timesjobs.com/job-detail/java-developer-sapphire-software-solutions-ahmedabad-2-to-7-yrs-jobid-DTZR3VvzUXhzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: Ingrain Systems Inc.
+Location: 
+Job description: Visa : OpenSalary: Open and negotiable  ( DOE ) Skills- Springboot ,  Java ,  Web ServicesJob DescriptionWork Experience: 5   years experience developing Object Oriented web s... More Details
+Required skills: spring, san, java, j2ee, hibernate, java developer
+More Info: https://www.timesjobs.com/job-detail/java-developer-ingrain-systems-inc-5-to-8-yrs-jobid-sYd6n6L__PLUS__2KFzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: java developer
+Company: Excelindia HR Services
+Location: Cochin/ Kochi/ Ernakulam
+Job description: KEY PERFORMANCE INDICATORS  /  RESPONSIBILITIESo Experience in developing apps in Core Java ,  J2EEo Understanding the requirements and preparing designs for translating those... More Details
+Required skills: production support, java, j2ee, software engineer, java programming
+More Info: https://www.timesjobs.com/job-detail/java-developer-excelindia-hr-services-cochin-kochi-ernakulam-3-to-6-yrs-jobid-Jd0c55Ibw9xzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Java Developer
+Company: International Information Technology Team
+Location: Hyderabad/Secunderabad
+Job description: Job Title: Java DeveloperJob Code : WLA - Jan / 2017Job Description :Experience on web front-end technologies  &  frameworks like JSP / Servlets ,  Struts ,  Spring ,  XML ,  ... More Details
+Required skills: rdbms, sybase, jsp, hibernate, javascript, jquery, java developer, spring, java, struts, xml, servlets, j2ee, multithreading
+More Info: https://www.timesjobs.com/job-detail/java-developer-international-information-technology-team-hyderabad-secunderabad-0-to-3-yrs-jobid-6NTrgyVff9FzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************

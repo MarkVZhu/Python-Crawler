@@ -1,0 +1,203 @@
+Job Type: python   Time: 2022-04-04/15/22 16:38:29
+
+********************************************************************************
+Job name: Python
+Company: Pure Tech Codex Private Limited
+Location: Pune
+Job description:  2 to 3 Years experience in Python.Expert in Python ,  with knowledge of at least one Python web framework  Flask ,  Django etc.Expert in server programming.Go... More Details
+Required skills: rest, python, database, django, debugging, mongodb
+More Info: https://www.timesjobs.com/job-detail/python-pure-tech-codex-private-limited-pune-2-to-3-yrs-jobid-OHwfF0d6EhNzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python
+Company: Surya Informatics Solutions Pvt. Ltd.
+Location: Chennai
+Job description: POSITION: Python Developer ELIGIBILITY: FRESHERS Your RoleUnderstand requirements and participate in project road map discussions in order to design ,  estimate ,  and deliver... More Details
+Required skills: python, web technologies, linux, mobile, mysql, angularjs, javascript
+More Info: https://www.timesjobs.com/job-detail/python-surya-informatics-solutions-pvt-ltd-chennai-0-to-3-yrs-jobid-UVlLes58wutzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: QA Python / Python SDET
+Company: Gemini Solutions
+Location: Gurgaon
+Job description: 4  Years GurgaonB.TechRequired Skills 4   years of software quality assurance experienceExperience on creating Framework For Test Automation.Good knowledge of Python Scripting... More Details
+Required skills: python, mobile, svn, nosql, python scripting, git, api, sql database
+More Info: https://www.timesjobs.com/job-detail/qa-python-python-sdet-gemini-solutions-gurgaon-4-to-7-yrs-jobid-eGMLzwOk2QlzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer , Python Programmer
+Company: RESEARCH DEVELOPERS
+Location: Delhi,  Delhi/NCR,  Noida/Greater Noida
+Job description: Excellent understanding of machine learning techniques and algorithms ,  such as k-NN ,  Naive Bayes ,  SVM ,  Decision Forests ,  etc.Experience with common data science tool... More Details
+Required skills: python, research, python programmer, Machine Learning, Pattern Recognition, Image Processing, Digital Image, Signal Processing, Electronic Circuits, Network Analysis
+More Info: https://www.timesjobs.com/job-detail/python-developer-python-programmer-research-developers-delhi-delhi-ncr-noida-greater-noida-0-to-3-yrs-jobid-3MUarDWEYwBzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer
+Company: TEAMPLUS STAFFING SOLUTION PVT. LTD.
+Location: Pune
+Job description: IndustryITPrevious Work Experience6 -9 YRSSalaryAs Per IndustryJob FunctionTechnologySkill 4  years of Python scripting- need framework development experience  ( 3 / 5 )  3  y... More Details
+Required skills: python, python scripting, shell scripting, unix
+More Info: https://www.timesjobs.com/job-detail/python-developer-teamplus-staffing-solution-pvt-ltd-pune-6-to-9-yrs-jobid-bjMgIT2lz6JzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer
+Company: HIRING STREET
+Location: Kolkata
+Job description: Role: Python Location: Kolkata Writing effective and scalable Python codes Designing and implementing robust applications.debugging applications to ensure low-... More Details
+Required skills: python, , Django, Jquery
+More Info: https://www.timesjobs.com/job-detail/python-developer-hiring-street-kolkata-2-to-6-yrs-jobid-IieIOSIHCn9zpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer
+Company: 2COMS Consulting Pvt Ltd
+Location: Gurgaon
+Job description: Brief  Drive the evolution of Azure data practices and architecture ,  augmenting the overarching technology strategy as well as streamlining the lay of the da... More Details
+Required skills: Python Developer
+More Info: https://www.timesjobs.com/job-detail/python-developer-2coms-gurgaon-3-to-7-yrs-jobid-__PLUS____SLASH__6bzN7KKYhzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Fresher  ( Python )
+Company: TECHNOPARK TRIVANDRUM
+Location: Thiruvananthapuram
+Job description: Brief description :We are looking for enthusiastic and motivated freshers who are trained in python to be part of our team.Experience - 0-2yrsPreferred skillsKnowledge in Pyth... More Details
+Required skills: fundamentals, python, programming language
+More Info: https://www.timesjobs.com/job-detail/fresher-python-technopark-trivandrum-thiruvananthapuram-0-to-3-yrs-jobid-BzVxxiK6pnZzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Automation
+Company: GS LAB
+Location: Pune
+Job description: Experience Level : 3 to 5 yearsMust Have Skills : PythonNice To Have Skills : NetworkingRoles  &  responsibilities : Work with teams in all aspect of the automation framework ... More Details
+Required skills: python, linux, debugging, unix
+More Info: https://www.timesjobs.com/job-detail/python-automation-gs-lab-pune-3-to-5-yrs-jobid-Gscx7G6MVLRzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Engineer
+Company: DBS Bank Ltd
+Location: Hyderabad/Secunderabad
+Job description: Python Engineer -  (  WD32434  ) ResponsibilitiesDesign and build from scratch for enterprise observability infrastructureCreate and maintain optimal data pipeline.Assemble la... More Details
+Required skills: python, java, infrastructure, software engineering
+More Info: https://www.timesjobs.com/job-detail/python-engineer-dbs-bank-ltd-hyderabad-secunderabad-0-to-3-yrs-jobid-4gbq5MyGx9pzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer
+Company: Ivan Infotech Pvt. Ltd.
+Location: Kolkata
+Job description: We are looking for a Python Developer to join our development team. Python Developer responsibilities include writing and testing code ,  debugging programs and integrating ap... More Details
+Required skills: rest, python, security, debugging
+More Info: https://www.timesjobs.com/job-detail/python-developer-ivan-infotech-pvt-ltd-kolkata-2-to-5-yrs-jobid-1h6sLaqbaBZzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Engineer
+Company: dbs asia hub 2
+Location: Hyderabad/Secunderabad
+Job description: Design and build from scratch for enterprise observability infrastructureCreate and maintain optimal data pipeline.Assemble large ,  complex data sets that meet functional  / ... More Details
+Required skills: python, java, infrastructure, software engineering
+More Info: https://www.timesjobs.com/job-detail/python-engineer-dbs-asia-hub-2-hyderabad-secunderabad-0-to-3-yrs-jobid-HFr7SPrJd__PLUS__ZzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer
+Company: TECHNOPARK TRIVANDRUM
+Location: Thiruvananthapuram
+Job description: We are looking for python developers to join our engineering team and will be responsible for creating dynamic software products.Responsible for , Writing reusable code in the... More Details
+Required skills: python, oops, storage
+More Info: https://www.timesjobs.com/job-detail/python-developer-technopark-trivandrum-thiruvananthapuram-2-to-5-yrs-jobid-pNKdGrN4Lg9zpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer
+Company: TandA HR Solutions
+Location: Mohali
+Job description: Hiring for Python Developer for Females in MNC Company for Mohali locationProfile  Python DeveloperExperience  3 to 5 yearsLocation  MohaliGender Preference  FemaleQualificati... More Details
+Required skills: Django framework, Python Developer, core python
+More Info: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-mohali-3-to-5-yrs-jobid-GTT0grHZP1tzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer
+Company: Datagrid Solutions
+Location: Mumbai
+Job description: Write well designed and optimized codeContribute in all phases of development lifecycle - troubleshoot ,  test and maintain the core product and database to ensure strong opti... More Details
+Required skills: python, database, django, mysql, api
+More Info: https://www.timesjobs.com/job-detail/python-developer-datagrid-solutions-mumbai-2-to-3-yrs-jobid-yAspoeIZIo5zpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Engineer
+Company: east india securities ltd.
+Location: Kolkata
+Job description: job_description   2  years of experience working with python    Strong analytical skills    Ability to churn scripting solutions with a quick turnaround time    Inclination to... More Details
+Required skills: python, hadoop, machine learning
+More Info: https://www.timesjobs.com/job-detail/python-engineer-east-india-securities-ltd-kolkata-2-to-5-yrs-jobid-KEkE19WqPbFzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python intern
+Company: sjain ventures
+Location: Raipur
+Job description: Python intern A Python Web Developer is responsible for writing server-side web application logic. Python web developers usually develop back-end components ,  connect the app... More Details
+Required skills: python, web developer, web services
+More Info: https://www.timesjobs.com/job-detail/python-intern-sjain-ventures-raipur-0-to-3-yrs-jobid-KmspiL9__SLASH__D9hzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer
+Company: systango
+Location: Indore
+Job description: Job Description Develop a web-based application using Python ,  Django ,  JavaScriptDesign ,  document ,  implement and provide leadership on a large core part of the manageme... More Details
+Required skills: python, django, javascript, web programming
+More Info: https://www.timesjobs.com/job-detail/python-developer-systango-indore-5-to-8-yrs-jobid-YtDomXdajg5zpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: PYTHON DEVELOPER
+Company: SAVIC
+Location: Mumbai
+Job description: Write effective ,  scalable code Develop back-end components to improve responsiveness and overall performance Integrate user-facing elements into applications Test and debug ... More Details
+Required skills: python, security, django, html5, javascript
+More Info: https://www.timesjobs.com/job-detail/python-developer-savic-mumbai-5-to-8-yrs-jobid-iQbJppwxskhzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer
+Company: 2COMS Consulting Pvt Ltd
+Location: Mumbai
+Job description: JD for Python developer  ( 7 roles ) :  Minimum 4 years of experience in Python /  VBA /  Frontend Good knowledge of Data Structures ,  JSON ,  advance Python Libraries  ( Pan... More Details
+Required skills: Python Developer
+More Info: https://www.timesjobs.com/job-detail/python-developer-2coms-mumbai-3-to-6-yrs-jobid-nwEbHwSd5TBzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer
+Company: TandA HR Solutions
+Location: Gurgaon
+Job description: Urgent Requirement of Python Developer profile in IT company for Gurgaon locationJOB DESCRIPTION-Below are the skillsets required :Django or PyCharm frameworkDockersSQLOpenShi... More Details
+Required skills: python, django, sql
+More Info: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-gurgaon-0-to-3-yrs-jobid-dMtCdFUMRY5zpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python   Devops
+Company: TEAMPLUS STAFFING SOLUTION PVT. LTD.
+Location: Pune
+Job description: Note : Its a contract to hire role for 6 months ,  We need a core python developer ( No frameworks )  who hasexposure to Pytest ,  Jenkins and Ansible. it would be 70 PERCENT ... More Details
+Required skills: Python 2,  knowledge of JIRA,  Terraform
+More Info: https://www.timesjobs.com/job-detail/python-devops-teamplus-staffing-solution-pvt-ltd-pune-0-to-3-yrs-jobid-rCX83h0ULeBzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer
+Company: METADESIGN SOLUTIONS
+Location: Gurgaon
+Job description: Python DeveloperExperience: 2 - 5 yearsNo of Openings: 2Location: GurgaonExpert in Python ,  with knowledge of at least one Python web framework  ( such as Dja... More Details
+Required skills: python, django, html5, javascript
+More Info: https://www.timesjobs.com/job-detail/python-developer-metadesign-solutions-gurgaon-2-to-5-yrs-jobid-2HZFYHdprdhzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer
+Company: TEAMPLUS STAFFING SOLUTION PVT. LTD.
+Location: Bengaluru / Bangalore
+Job description: Job DescriptionYou will design and develop large scale distributed services.You will analyse and improve the efficiency ,  scalability ,  stability ,  and security of the plat... More Details
+Required skills: algorithms, security, python, data structures
+More Info: https://www.timesjobs.com/job-detail/python-developer-teamplus-staffing-solution-pvt-ltd-bengaluru-bangalore-0-to-3-yrs-jobid-2CO6Cv8SzIFzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
+Job name: Python Developer
+Company: TEAMPLUS STAFFING SOLUTION PVT. LTD.
+Location: Pune
+Job description: Skills Should have at least 5  years of prior experience as a Python Developer Good knowledge Django ,  Flask or similar Python frameworks Good experience in writing server-si... More Details
+Required skills: python, database, security, django, debugging
+More Info: https://www.timesjobs.com/job-detail/python-developer-teamplus-staffing-solution-pvt-ltd-pune-5-to-8-yrs-jobid-LFOyEssJt0BzpSvf__PLUS__uAgZw==&source=srp
+
+********************************************************************************
