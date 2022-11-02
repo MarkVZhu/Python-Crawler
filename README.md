@@ -1,4 +1,4 @@
-# Python Crawler
+# CPS3320 AS: Python Crawler
 This python crawler scrapes jobs on TIMESJOBS web. 
 The target website:		https://www.timesjobs.com/  
 ![image](https://user-images.githubusercontent.com/61057370/163549750-52ff4a6f-4e4b-41f8-bebb-3b9fdf8c28df.png)  
